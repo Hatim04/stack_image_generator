@@ -15,4 +15,4 @@ Copy the extracted source code folder and paste it into the XAMPP's "htdocs" dir
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Locate and Open the `stackAPI.class.php` file with your preferred code editor.
 Replace the `$this->apiKey` value with you Pexels API Key and save it.
-Browse the Simple Image Stack Website in a browser. i.e. http://localhost/php-image-stack/
+Browse the Simple Image Stack Website in a browser. i.e. http://localhost/stack_image_generator-main/
